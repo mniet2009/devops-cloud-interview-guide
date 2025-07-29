@@ -1,4 +1,4 @@
-## Question..  
+## Question...  
 What are 10 Linux commands you use daily? (Excluding basic ones like `ls` and `cd`)
 
 ### 📝 Short Explanation  
